@@ -5,7 +5,14 @@ let estados = ['Acre', 'Alagoas', 'Amapá', 'Amazonas', 'Bahia', 'Ceará', 'Dist
 //     console.log(i);
 //     i++;
 // }
-for (let j = 0; j < estados.length; j++) {
-    console.log(estados[j]);
-    console.log(j);    
+// for (let j = 0; j < estados.length; j++) {
+//     console.log(estados[j]);
+//     console.log(j);    
+// }
+let idade = 10; 
+if(idade>17) {
+    console.log('você está preso');
+}
+else {
+    console.log('seus pais estão presos');
 }
