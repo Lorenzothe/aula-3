@@ -5,3 +5,6 @@ while(i < 27){
     console.log(i);
     i++;
 }
+for(i < 10){
+    console.log(estados ['chatgptburro']);
+}
