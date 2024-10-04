@@ -9,9 +9,9 @@ let estados = ['Acre', 'Alagoas', 'Amapá', 'Amazonas', 'Bahia', 'Ceará', 'Dist
 //     console.log(estados[j]);
 //     console.log(j);    
 // }
-let idade = 10;
-let (document.write(media(c))); 
-if(idade>c) {
+let idade = parseInt (prompt ('qual sua idade?'))
+document.write(idade);
+if(idade>17) {
     console.log('você está preso');
 }
 else {
