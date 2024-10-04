@@ -16,4 +16,6 @@ if(idade>17) {
 else {
     console.log('seus pais estão presos');
 }
-idade++
+while(idade<17){
+    idade++
+}
