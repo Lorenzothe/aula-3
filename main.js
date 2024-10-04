@@ -5,7 +5,7 @@ let estados = ['Acre', 'Alagoas', 'Amapá', 'Amazonas', 'Bahia', 'Ceará', 'Dist
 //     console.log(i);
 //     i++;
 // }
-for (let index = 0; index < array.length; index++) {
-    const element = array[index];
-    
+for (let j = 0; j < estados.length; j++) {
+    console.log(estados[j]);
+    console.log(j);    
 }
