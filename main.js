@@ -16,3 +16,4 @@ if(idade>17) {
 else {
     console.log('seus pais estão presos');
 }
+idade++
