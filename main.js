@@ -9,13 +9,11 @@ let estados = ['Acre', 'Alagoas', 'Amapá', 'Amazonas', 'Bahia', 'Ceará', 'Dist
 //     console.log(estados[j]);
 //     console.log(j);    
 // }
-let idade = 10; 
-if(idade>17) {
+let idade = 10;
+document.write(media(c)) 
+if(idade>c) {
     console.log('você está preso');
 }
 else {
     console.log('seus pais estão presos');
-}
-while(idade<17){
-    idade++
 }
